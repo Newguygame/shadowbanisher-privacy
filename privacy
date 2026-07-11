@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Shadowbanisher Privacy Policy</title>
+</head>
+
+<body>
+
+<h1>Shadowbanisher Privacy Policy</h1>
+
+<p>
+Shadowbanisher is a Discord moderation bot.
+</p>
+
+<h2>Data we store</h2>
+
+<p>
+Shadowbanisher stores only the information needed for moderation features:
+</p>
+
+<ul>
+<li>Discord user IDs</li>
+<li>Discord server IDs</li>
+<li>Stored roles for restoring users after a Void punishment</li>
+<li>Temporary punishment end times</li>
+</ul>
+
+<h2>Why we store this data</h2>
+
+<p>
+This data is used only to provide moderation features such as temporary Void punishments and restoring roles.
+</p>
+
+<h2>Data storage</h2>
+
+<p>
+Data is stored in a local database controlled by the bot owner.
+</p>
+
+<h2>Contact</h2>
+
+<p>
+For questions about this bot, contact the bot owner.
+</p>
+
+</body>
+</html>
